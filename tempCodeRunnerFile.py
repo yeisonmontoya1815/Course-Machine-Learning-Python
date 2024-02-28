@@ -1,1 +1,3 @@
-print("hola mundo")
+a = 3 + 4
+
+print (a)
