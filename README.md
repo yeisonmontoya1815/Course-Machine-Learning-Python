@@ -12,10 +12,15 @@ Contributions to enhance the repository with more examples, better explanations,
 
 
 Fork the repository and create your branch from *main*.
-  * Make your changes and ensure the code lints.
+  * Make your changes and ensure the code lines.
   * Issue a pull request describing your changes.
 
 **License**
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
+📌 **Find me!**
+* [Linkedin](https://www.linkedin.com/in/yeisonmontoya/)
+* [Github](https://github.com/yeisonmontoya1815)
+
 
